@@ -25,3 +25,7 @@ output/
 build/
 dist/
 paddleocr.egg-info/
+*.0
+z_work/checkpoint
+z_work/infer_model
+z_work/train_data
